@@ -45,4 +45,3 @@ def newton (q):
 hey_there = newton (5)
 print (hey_there)
 
-changes = 0
